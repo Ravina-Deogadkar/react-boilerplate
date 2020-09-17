@@ -1,4 +1,4 @@
-import WebServer from './web.server'
+import WebServer from './web.server';import 'regenerator-runtime/runtime';
 describe('Started', () => {  
     let webServer = null;
     beforeAll(() => {    webServer = new WebServer()  });
