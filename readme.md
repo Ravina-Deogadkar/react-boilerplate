@@ -1,4 +1,4 @@
-# React-BoilerplateThis is my react-boilerplate
+# React-Boilerplate
 
 ## Setup
 ### npm install
